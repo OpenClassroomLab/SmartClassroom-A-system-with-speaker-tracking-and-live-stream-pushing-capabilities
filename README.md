@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SmartClassroom: A system with speaker tracking and live stream pushing capabilities
 
 This SmartClassroom System is designed for online and offline integrated teaching courses. The classroom system uses multiple cameras for target tracking to reduce the delay of information transmission, improve the efficiency of classroom interaction, and provide video information with lower delay and higher recognition rate. In this way, we can better record each on-site student's speech status, almost without manual operation. Also, online students can feel a more real learning experience. At the same time, the system can put courses on the live streaming platform through live streaming, allowing more people to participate in online teaching. 
@@ -112,5 +111,5 @@ Coming soon ...
 
 ## Acknowledgments 
 
->>>>>>> 42549d3 (准备pull到github)
+
 Thanks to [Ultralytics](https://github.com/ultralytics) for providing [yolov5](https://github.com/ultralytics/yolov5), which has been a significant support for our project.
