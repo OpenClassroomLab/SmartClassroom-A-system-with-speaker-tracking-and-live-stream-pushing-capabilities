@@ -1,0 +1,8 @@
+
+
+train: D:/yolov5/HAN/images/train/
+val: D:/yolov5/HAN/images/val/
+
+nc: 2
+
+names: ["hand","abnormal"]

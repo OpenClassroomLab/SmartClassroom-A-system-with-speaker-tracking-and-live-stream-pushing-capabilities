@@ -1,0 +1,8 @@
+
+
+train: D:/yolov5/VMD/images/train/
+val: D:/yolov5/VMD/images/val/
+
+nc: 1
+
+names: ["mouth"]
