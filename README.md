@@ -10,7 +10,7 @@ The function is divided into two modules: rough positioning based on microphone 
 
 These two parts can operate independently: rough positioning requires devices such as array microphones and webcams, the former will output the approximate area of the sound source, while the camera will turn to the approximate position without accuracy; Fine positioning only requires the camera, the face coordinates will be obtained through the YOLOv5 algorithm, and the camera rotation will be controlled based on PID so that the face is located in the center of the picture, but this requires the face itself to be in the picture. Two terminals can also be opened to run at the same time, which can make the face that is not in the picture first through rough positioning to be found, and then through fine positioning to be accurately aligned.
 
-You need to replace the IP in the code with the IP of your own device.
+You need to replace the IP in the code with the IP of your own  device.
 
 ### Rough Positioning
 
